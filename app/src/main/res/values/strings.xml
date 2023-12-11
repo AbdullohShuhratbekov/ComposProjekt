@@ -1,3 +1,33 @@
 <resources>
     <string name="app_name">AcadamyLassansCampos</string>
+    <string name="facebook">Facebook</string>
+    <string name="google">Google</string>
+    <string name="text_manu">Strategy!👏</string>
+    <string name="text">The Best Design</string>
+    <string name="text_tasks">5 Tasks are predning.</string>
+    <string name="manu">Aenean eu lacinia ligula. Quisque eu risus erat. Aenean placerat sollicitudin lectus.</string>
+    <string name="manu_two">find the best!👌</string>
+    <string name="main_first_screen">MainFirstScreen</string>
+    <string name="main_second_screen">MainSecondScreen</string>
+    <string name="manu_view">The Simple Way to</string>
+    <string name="manu_text">Econify</string>
+    <string name="claps">Sign Up</string>
+    <string name="name">Name</string>
+    <string name="mainFirstScreen">MainFirstScreen</string>
+    <string name="mainSecondScreen">MainSecondScreen</string>
+    <string name="mainThirdScreen">MainThirdScreen</string>
+    <string name="mainFourScreen">MainFourScreen</string>
+    <string name="mainFiveScreen">MainFiveScreen</string>
+    <string name="mainSixScreen">MainSixScreen</string>
+    <string name="mainSevenScreen">MainSevenScreen</string>
+    <string name="mainEighthScreen">MainEighthScreen</string>
+    <string name="nam">Name</string>
+    <string name="have">Do you have account? </string>
+    <string name="account">Creat Account</string>
+    <string name="agree">I’m agree to The Tarms of Service and Privasy \n
+Policy</string>
+    <string name="number">Email/Phone Number</string>
+    <string name="password">Password</string>
+    <string name="text_first_name">It was popularised in the 1960s with the release of Letraset sheetscontaining Lorem Ipsum.</string>
+    <string name="text_last_name">Create a unique emotional story that  describes better than words"</string>
 </resources>
